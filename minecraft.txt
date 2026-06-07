@@ -1,0 +1,48 @@
+# Minecraft (Mojang/Microsoft) - Launcher & Assets
+launcher.mojang.com
+launchermeta.mojang.com
+libraries.minecraft.net
+resources.download.minecraft.net
+piston-meta.mojang.com
+piston-data.mojang.com
+assets.minecraft.net
+api.mojang.com
+textures.minecraft.net
+cdn.launcher.mojang.com
+mclauncher.azureedge.net
+minecraftlauncher.azureedge.net
+
+# Minecraft Forge / NeoForge / Fabric
+maven.minecraftforge.net
+files.minecraftforge.net
+maven.neoforged.net
+maven.fabricmc.net
+
+# Modrinth
+cdn.modrinth.com
+api.modrinth.com
+launcher.modrinth.com
+modrinth.com
+
+# CurseForge / Overwolf
+edge.forgecdn.net
+media.forgecdn.net
+api.curseforge.com
+curseforge.com
+www.curseforge.com
+cdn.overwolf.com
+download.overwolf.com
+overwolfstatic.com
+
+# Feed The Beast (FTB)
+api.modpacks.ch
+modpacks.ch
+cdn.feed-the-beast.com
+feed-the-beast.com
+
+# Technic Launcher & Solder
+api.technicpack.net
+launcher.technicpack.net
+www.technicpack.net
+technicpack.net
+solder.technicpack.net
