@@ -131,6 +131,11 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
+    },
+    {
+      "name": "minecraft",
+      "description": "CDN for Minecraft (Mojang/Microsoft), Forge, NeoForge, Fabric, Modrinth, CurseForge, FTB and Technic modpack downloads",
+      "domain_files": ["minecraft.txt"]
     }
   ]
 }
